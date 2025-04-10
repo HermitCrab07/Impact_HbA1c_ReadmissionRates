@@ -12,8 +12,8 @@ Description of the Dataset - Each row represents hospitalized patient records di
 The data contains attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab tests performed, HbA1c result, diagnosis, number of medications, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc. 
 
 #### Analysis Approach
-- **Re-evaluation with Modern Tools**: Applying causal inference and ML techniques to the dataset after performing the basic EDAs.
-- **My Thought Process**: This repository will focus on the thought process of analyzing this dataset and more importantly, doing a deep dive using the simplest of tools. In what follows, I try to articulate my thought process, assumptions, and conclusions drawn from the analysis. It's my way of doing a deep dive. It's simple because that's how I really get a feel of the data. Lot of basic cross-tabs are what I use to get a 'handle' on the data... and only after that, do I move on to more complex analysis.
+- **Re-evaluation**: Applying causal inference and ML techniques to the dataset after performing the basic EDAs.
+- **Process**: This repository will focus on the thought process of analyzing this dataset and more importantly, doing a deep dive using the simplest of tools. In what follows, I try to articulate my thought process, assumptions, and conclusions drawn from the analysis. It's my way of doing a deep dive. It's simple because that's how I really get a feel of the data. Lot of basic cross-tabs are what I use to get a 'handle' on the data... and only after that, do I move on to more complex analysis.
 
 #### Why This Matters
 Even without a background in the medical field, the importance of management plans for conditions like diabetes is obvious to me (and everyone else) but by revisiting this paper with new methods and new perspectives, my hope is to add another aspect to the conversation and potentially validate or refine the strategies for managing diabetes, contributing to improved outcomes. I hope.
